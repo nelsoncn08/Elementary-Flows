@@ -1,0 +1,1 @@
+This project was developed as a partial assignment for the conclusion of 'Fundamentals of Aerodynamics I' during the fifth semester of the Aerospace Engineering course at the Federal University of Santa Maria (2023).
